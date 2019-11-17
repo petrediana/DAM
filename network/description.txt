@@ -1,4 +1,7 @@
-Welcome to my app. Here you can read a little bit about it. Enjoy! :)
+Welcome to my app. Here you can read a little bit about it. 
+This message is fetched from github using a HttpURLConnection.
+
+Enjoy! :)
 
 View Data:
 	-> first tap on the lateral menu to see all your options
