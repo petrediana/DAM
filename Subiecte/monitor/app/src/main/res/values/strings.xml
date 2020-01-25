@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bilet_4_Monitor</string>
+    <string name="activity_main_inregistrare_btn">Inregistrare monitor</string>
+    <string name="activity_main_lista_monitoare_btn">Lista monitoare</string>
+    <string name="activity_main_preluare_btn">Preluare</string>
+    <string name="activity_main_raport_btn">Raport</string>
+    <string name="activity_main_despre_btn">Despre</string>
+    <string name="main_activity_despre_btn_toast">Nume_autor_aplicatie</string>
+    <string name="inregistrare_monitor_nr_inventar_et">nr_inventar</string>
+    <string name="inregistrare_monitor_producator_et">producator</string>
+    <string name="inregistrare_monitor_diagonala_et">diagonala</string>
+    <string name="inregistrare_monitor_proprietar_et">proprietar</string>
+    <string name="inregistrare_monitor_data_intrarii_et">data_intrarii</string>
+    <string name="inregistrare_nr_inregistare_error">nr_inregistare_null</string>
+    <string name="producator_nu_ok_error">producator_nu_ok_</string>
+    <string name="diagonala_nu_ok">diagonala_nu_ok</string>
+    <string name="diagonala_intre_14_si_55_pls">diagonala_intre_14_si_55_pls</string>
+    <string name="data_intrarii_nu_ok">data_intrarii_nu_ok__dd-MM-yyyy</string>
+    <string name="inregistrare_monitor_adauga_btn">adauga</string>
+    <string name="proprietar_nu_ok">proprietar_nu_ok</string>
+    <string name="preluat">preluat</string>
+    <string name="mai_da_un_click">mai da un click</string>
+</resources>
