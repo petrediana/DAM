@@ -1,0 +1,47 @@
+[
+  {
+    "nr_inventar" : 10,
+    "producator" : "prod1",
+    "diagonala" : "15",
+    "proprietar" : "prop1",
+    "data_intrarii" : "11-11-2011"
+  },
+  
+  {
+    "nr_inventar" : 11,
+    "producator" : "prod12",
+    "diagonala" : "15",
+    "proprietar" : "prop1",
+    "data_intrarii" : "11-11-2011"
+  },
+  
+  {
+    "nr_inventar" : 12,
+    "producator" : "prod12",
+    "diagonala" : "15",
+    "proprietar" : "prop12",
+    "data_intrarii" : "11-11-2011"
+  },
+  
+  {
+    "nr_inventar" : 13,
+    "producator" : "prod13",
+    "diagonala" : "15",
+    "proprietar" : "prop13",
+    "data_intrarii" : "11-11-2011"
+  },
+  {
+    "nr_inventar" : 14,
+    "producator" : "prod14",
+    "diagonala" : "16",
+    "proprietar" : "prop14",
+    "data_intrarii" : "11-11-2011"
+  },
+  {
+    "nr_inventar" : 15,
+    "producator" : "prod15",
+    "diagonala" : "16",
+    "proprietar" : "prop15",
+    "data_intrarii" : "11-11-2011"
+  }
+  ]
