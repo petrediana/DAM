@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_inregistrare_televizor"
+        android:title="Inregistrare Televizor" />
+    <item
+        android:id="@+id/menu_lista_televizoare"
+        android:title="Lista Televizoare" />
+    <item
+        android:id="@+id/menu_json"
+        android:title="Preluare Json" />
+    <item
+        android:id="@+id/menu_raport"
+        android:title="Raport" />
+    <item
+        android:id="@+id/menu_despre"
+        android:title="Despre" />
+</menu>
