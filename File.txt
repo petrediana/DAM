@@ -1,1 +1,125 @@
-[{"$type":"AppRetetePDM.Classes.Recipe.SweetsRecipe, AppRetetePDM","BaseIngredients":[{"$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM","Name":"Mere","Quantity":"20"},{"$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM","Name":"Faina","Quantity":"4 pahare"},{"$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM","Name":"Drojdie","Quantity":"o bucata"}],"RecipeName":"Placinta cu mere","RecipeDescriptions":"O placinta buna"},{"$type":"AppRetetePDM.Classes.Recipe.SweetsRecipe, AppRetetePDM","BaseIngredients":[{"$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM","Name":"Dulceata de visine","Quantity":"un borcan"},{"$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM","Name":"Faina","Quantity":"un pahar"},{"$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM","Name":"Apa minerala","Quantity":"un sfert de pahar"}],"RecipeName":"Calitate cu dulceata","RecipeDescriptions":"Cand ai chef de clatite..."}]
+[
+    {
+        "$type":"AppRetetePDM.Classes.Recipe.SweetsRecipe, AppRetetePDM",
+        "BaseIngredients":[
+           {
+              "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+              "Name":"Faina",
+              "Quantity":"jumatate de pahar"
+           },
+           {
+              "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+              "Name":"Lapte",
+              "Quantity":"un sfert de pahar"
+           },
+           {
+              "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+              "Name":"Apa minerala",
+              "Quantity":"un sfert de pahar"
+           },
+           {
+            "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+            "Name":"Zahar",
+            "Quantity":"3 lingurite"
+         },
+         {
+            "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+            "Name":"Stafide",
+            "Quantity":"100g"
+         },
+         {
+            "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+            "Name":"Zeama de lamaie",
+            "Quantity":"2 lingurite"
+         }
+        ],
+        "RecipeName":"Placinta Dutch baby",
+        "RecipeDescriptions":"Se amesteca toate ingredientele. Preparata in cuptor."
+     },
+     {
+        "$type":"AppRetetePDM.Classes.Recipe.SweetsRecipe, AppRetetePDM",
+        "BaseIngredients":[
+           {
+              "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+              "Name":"Banane",
+              "Quantity":"13 felii"
+           },
+           {
+              "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+              "Name":"Mere",
+              "Quantity":"10 felii"
+           },
+           {
+              "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+              "Name":"Piersici",
+              "Quantity":"15 felii"
+           },
+           {
+            "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+            "Name":"Ananas",
+            "Quantity":"5 rondele"
+         },
+         {
+            "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+            "Name":"Frisca",
+            "Quantity":"dupa preferinta"
+         }
+        ],
+        "RecipeName":"Salata de fructe cu frisca",
+        "RecipeDescriptions":"Numai buna pentru o zi de vara!"
+     },
+    {
+       "$type":"AppRetetePDM.Classes.Recipe.SweetsRecipe, AppRetetePDM",
+       "BaseIngredients":[
+          {
+             "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+             "Name":"Mere curatate fierte cu zahar",
+             "Quantity":"20"
+          },
+          {
+             "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+             "Name":"Faina",
+             "Quantity":"8 pahare"
+          },
+          {
+            "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+            "Name":"Lapte",
+            "Quantity":"2 pahare"
+         },
+         {
+            "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+            "Name":"Ulei de masline",
+            "Quantity":"o lingura"
+         },
+          {
+             "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+             "Name":"Drojdie",
+             "Quantity":"o bucata"
+          }
+       ],
+       "RecipeName":"Placinta cu mere",
+       "RecipeDescriptions":"O placinta buna"
+    },
+    {
+       "$type":"AppRetetePDM.Classes.Recipe.SweetsRecipe, AppRetetePDM",
+       "BaseIngredients":[
+          {
+             "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+             "Name":"Dulceata de visine",
+             "Quantity":"un borcan"
+          },
+          {
+             "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+             "Name":"Faina",
+             "Quantity":"un pahar"
+          },
+          {
+             "$type":"AppRetetePDM.Classes.Ingredient.BaseIngredient, AppRetetePDM",
+             "Name":"Apa minerala",
+             "Quantity":"un sfert de pahar"
+          }
+       ],
+       "RecipeName":"Calitate cu dulceata",
+       "RecipeDescriptions":"Reteta clasicelor clatite"
+    }
+ ]
